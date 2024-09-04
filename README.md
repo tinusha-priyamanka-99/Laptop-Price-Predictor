@@ -1,3 +1,5 @@
+# Laptop Price Predictor
+
 ## Overview
 This project focuses on predicting laptop prices using machine learning techniques. The dataset contains information about various laptop features such as RAM, CPU, GPU, and more.
 
